@@ -1,7 +1,7 @@
 # Fox Go Dataset
 This repository contains 13.6 million [go](https://en.wikipedia.org/wiki/Go_(game)) games, downloaded from all ranks on the [Fox Go server](http://www.foxwq.com/). They should be useful for designing AIs that play with human style at a specific level, or for reviewing games of a specific level.
 
-The download process took a few hours, and was halted before downloading the entire Fox Go dataset. Open the archives with [7-zip](http://www.7-zip.org/). It's recommended to download archives individually from their folders, since the total repository size is large.
+The download process took a few hours, and was halted before it downloaded the entire Fox Go dataset. Open the archives with [7-zip](http://www.7-zip.org/). It's recommended to download archives individually from their folders, since the total repository size is large.
 
     Pro:	9,669 games
     9d:	148,102 games
