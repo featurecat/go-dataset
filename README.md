@@ -1,33 +1,36 @@
 # Fox Go Dataset
-This repository contains 13.6 million [go](https://en.wikipedia.org/wiki/Go_(game)) games, downloaded from all ranks on the [Fox Go server](http://www.foxwq.com/). They should be useful for designing AIs that play with human style at a specific level, or for reviewing games of a specific level.
+This repository contains 21.1 million [go](https://en.wikipedia.org/wiki/Go_(game)) games, downloaded from all ranks on the [Fox Go server](http://www.foxwq.com/). They might be useful for:
+- analyzing how human Go style has changed from 2012-2019, with the recent adoption of AI-inspired moves
+- building a database of go openings
+- designing AIs that play with human style at a specific level
 
-The download process took a few hours, and was halted before it downloaded the entire Fox Go dataset. Open the archives with [7-zip](http://www.7-zip.org/). Make sure to use the Extract button instead of drag and drop. The total repository size is 4 GB. Archives may also be downloaded individually. 
+The download process took a few hours. The entire Fox Go dataset is much larger, but I couldn't manage to download everything in the few hours. Open the archives with [7-zip](http://www.7-zip.org/). Make sure to use the Extract button instead of drag and drop. The total repository size is 10.6 GB. Archives of a specific rank may also be downloaded individually through the github web interface.
 
-    Pro:	9,669 games
-    9d:	148,102 games
-    8d:	67,252 games
-    7d:	154,037 games
-    6d:	390,472 games
-    5d:	891,187 games
-    4d:	1,336,985 games
-    3d:	2,107,739 games
-    2d:	1,709,721 games
-    1d:	1,355,036 games
-    1k:	907,993 games
-    2k:	653,935 games
-    3k:	422,708 games
-    4k:	372,551 games
-    5k:	347,819 games
-    6k:	296,465 games
-    7k:	281,014 games
-    8k:	292,084 games
-    9k:	291,525 games
-    10k:	197,327 games
-    11k:	153,627 games
-    12k:	151,844 games
-    13k:	126,356 games
-    14k:	162,144 games
-    15k:	154,295 games
-    16k:	162,754 games
-    17k:	155,910 games
-    18k:	299,008 games
+    Pro:	10,349 games
+    9d:	321,018 games
+    8d:	242,996 games
+    7d:	326,235 games
+    6d:	571,898 games
+    5d:	1,098,079 games
+    4d:	1,554,200 games
+    3d:	2,358,734 games
+    2d:	2,087,709 games
+    1d:	1,866,476 games
+    1k:	1,630,462 games
+    2k:	1,578,804 games
+    3k:	1,527,383 games
+    4k:	1,107,708 games
+    5k:	837,607 games
+    6k:	506,121 games
+    7k:	367,433 games
+    8k:	326,038 games
+    9k:	309,607 games
+    10k:	323,680 games
+    11k:	254,410 games
+    12k:	253,001 games
+    13k:	210,840 games
+    14k:	266,888 games
+    15k:	222,744 games
+    16k:	265,641 games
+    17k:	246,249 games
+    18k:	501,020 games
