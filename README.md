@@ -4,7 +4,7 @@ This repository contains 21.1 million [go](https://en.wikipedia.org/wiki/Go_(gam
 - building a database of Go openings
 - designing AIs that play with human style at a specific level
 
-The download process took a few hours. The entire Fox Go dataset is much larger, but I couldn't manage to download everything in the few hours. Open the archives with [7-zip](http://www.7-zip.org/). Make sure to use the Extract button instead of drag and drop. The total repository size is 10.6 GB. Archives of a specific rank may also be downloaded individually through the github web interface.
+The download process took a few hours. The entire Fox Go dataset is much larger, but I couldn't manage to download everything in the few hours. Open the archives with [7-zip](http://www.7-zip.org/). Make sure to use the Extract button instead of drag and drop. The total repository size is 10.6 GB (compressed). Archives of a specific rank may also be downloaded individually through the github web interface.
 
     Pro:	10,349 games
     9d:	166,184 games
