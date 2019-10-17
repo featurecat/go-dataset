@@ -1,7 +1,7 @@
 # Fox Go Dataset
 This repository contains 21.1 million [go](https://en.wikipedia.org/wiki/Go_(game)) games, downloaded from all ranks on the [Fox Go server](http://www.foxwq.com/). They might be useful for:
 - analyzing how human Go style has changed from 2012-2019, with the recent adoption of AI-inspired moves
-- building a database of go openings
+- building a database of Go openings
 - designing AIs that play with human style at a specific level
 
 The download process took a few hours. The entire Fox Go dataset is much larger, but I couldn't manage to download everything in the few hours. Open the archives with [7-zip](http://www.7-zip.org/). Make sure to use the Extract button instead of drag and drop. The total repository size is 10.6 GB. Archives of a specific rank may also be downloaded individually through the github web interface.
