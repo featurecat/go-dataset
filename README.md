@@ -1,5 +1,3 @@
-edit: oops, I mixed up the chinese characters for kyu and dan. the new games (labelled rank2.7z.00x) are opposite of what theyre supposed to be, working on fixing that right now...
-
 # Fox Go Dataset
 This repository contains 21.1 million [go](https://en.wikipedia.org/wiki/Go_(game)) games, downloaded from all ranks on the [Fox Go server](http://www.foxwq.com/). They might be useful for:
 - analyzing how human Go style has changed from 2012-2019, with the recent adoption of AI-inspired moves
