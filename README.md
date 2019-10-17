@@ -11,13 +11,13 @@ The download process took a few hours. The entire Fox Go dataset is much larger,
     8d:	101,206 games
     7d:	240,456 games
     6d:	600,128 games
-    5d:	1,380,97 games
-    4d:	2,072,14 games
-    3d:	3,212,41 games
-    2d:	2,634,59 games
-    1d:	2,077,50 games
-    1k:	1,419,43 games
-    2k:	1,031,92 games
+    5d:	1,380,975 games
+    4d:	2,072,142 games
+    3d:	3,212,414 games
+    2d:	2,634,590 games
+    1d:	2,077,505 games
+    1k:	1,419,433 games
+    2k:	1,031,923 games
     3k:	673,703 games
     4k:	589,766 games
     5k:	554,711 games
